@@ -1,0 +1,6 @@
+  						寒假学习报告
+
+1.复习了js与css
+4.学习了javascript正则表达式验证表单
+3.了解了es6，java se
+4.过了一遍http协议与MySQL数据看和Ajax发送发送请求
